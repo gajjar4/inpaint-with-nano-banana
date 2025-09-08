@@ -1,4 +1,4 @@
-# 🎨 Enhancor Open Source Draw-to-Edit Annotation System
+#  Open Source Draw-to-Edit Annotation System
 
 A powerful, modular React-based annotation system for AI-powered image editing. This open-source project provides a complete toolkit for creating annotation interfaces similar to those found in professional image editing applications.
 
@@ -210,3 +210,4 @@ npm run build
 # Preview production build
 npm run preview
 ```
+
