@@ -34,8 +34,8 @@ A powerful, modular React-based annotation system for AI-powered image editing. 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/open-source-draw-to-edit-nano-banana.git
-cd open-source-draw-to-edit-nano-banana
+git clone https://github.com/gajjar4/inpaint-with-nano-banana.git
+cd inpaint-with-nano-banana.git
 
 # Install dependencies
 npm install
@@ -210,4 +210,5 @@ npm run build
 # Preview production build
 npm run preview
 ```
+
 
